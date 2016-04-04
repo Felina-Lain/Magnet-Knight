@@ -1,0 +1,31 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class magnetize : MonoBehaviour {
+	
+	public float speed;
+	public GameObject targetof;
+	public Transform magnetpos;
+
+	void Update(){
+
+		float step = speed * Time.deltaTime;
+		targetof.transform.position = Vector3.MoveTowards(targetof.transform.position, magnetpos.transform.position, step);
+	}
+
+	void OnTriggerStay (Collider other) {
+		if (other.tag == "Player") {
+			targetof = other.gameObject;
+
+		}
+
+	}
+	void OnTriggerExit (Collider other) {
+		if (other.tag == "Player") {
+			targetof = null;
+			
+		}
+		
+	}
+
+}

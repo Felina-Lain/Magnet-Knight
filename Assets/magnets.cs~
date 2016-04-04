@@ -1,0 +1,44 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class magnets : MonoBehaviour {
+
+	public GameObject Target;
+	public bool magnetoff;
+	public float speed;
+	public Transform snappoint;
+
+	// Use this for initialization
+	void Update () {
+		if (magnetoff == false && Target != null){ Magnetizer (); }
+	
+	}
+
+	void OnTriggerEnter (Collider col_){
+		if (col_.tag == "Player") {
+			Target = col_.gameObject;
+			Target.GetComponent<Rigidbody>().useGravity = false;
+		}
+	}
+
+	void OnTriggerExit (Collider col_){
+		if (col_.tag == "Player") {
+			Target.GetComponent<Rigidbody>().useGravity = true;
+			Target = null;
+		}
+	}
+	
+	// Update is called once per frame
+	void OnMouseOver() {
+		if (Input.GetMouseButtonDown (1)) {	magnetoff = !magnetoff;	}
+			
+		}
+
+	void Magnetizer () {
+		Target.GetComponent<Rigidbody>().useGravity = false;
+		float step = speed * Time.deltaTime;
+		Target.transform.position = Vector3.MoveTowards(Target.transform.position, snappoint.transform.position, step);
+
+	}
+
+}

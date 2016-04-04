@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: ab7ca2b302799694394f3c66a428faab
+timeCreated: 1449833773
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Magnet Knight_0
+    21300002: Magnet Knight_1
+    21300004: Magnet Knight_2
+    21300006: Magnet Knight_3
+    21300008: Magnet Knight_4
+    21300010: Magnet Knight_5
+    21300012: Magnet Knight_6
+    21300014: Magnet Knight_7
+    21300016: Magnet Knight_8
+    21300018: Magnet Knight_9
+    21300020: Magnet Knight_10
+    21300022: Magnet Knight_11
+    21300024: Magnet Knight_12
+    21300026: Magnet Knight_13
+    21300028: Magnet Knight_14
+    21300030: Magnet Knight_15
+    21300032: Magnet Knight_16
+    21300034: Magnet Knight_17
+    21300036: Magnet Knight_18
+    21300038: Magnet Knight_19
+    21300040: Magnet Knight_20
+    21300042: Magnet Knight_21
+    21300044: Magnet Knight_22
+    21300046: Magnet Knight_23
+    21300048: Magnet Knight_24
+    21300050: Magnet Knight_25
+    21300052: Magnet Knight_26
+    21300054: Magnet Knight_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Magnet Knight_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 175
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 167
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 167
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 167
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 167
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 167
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 175
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 141
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 133
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 133
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 141
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 133
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 141
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 60
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Magnet Knight_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
